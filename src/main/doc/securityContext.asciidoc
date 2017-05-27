@@ -151,7 +151,7 @@ The Java EE platform defines a declarative security model for protecting applica
 
 This specification provides an access point for programmatic security -- a security context -- represented by the _SecurityContext_ interface.
 
-The _SecurityContext_ MUST be available in all Java EE containers.
+When running on a Java EE Application Server, the _SecurityContext_ MUST be available in all Java EE containers, including Servlet and EJB containers.
 
 === Retrieving and Testing for Caller Data
 
