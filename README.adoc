@@ -1,3 +1,8 @@
+# Project Moved to Eclipse Foundation
+
+This project repository is for legacy review only. The project has been contributed to Eclipse Foundation, Jakarta EE.
+Please browse to https://github.com/jakartaee/security/
+
 = JSR 375 EE Security API: Specification
 
 The repository contains the AsciiDoc sources to generate the specification document in both HTML and pdf format.
